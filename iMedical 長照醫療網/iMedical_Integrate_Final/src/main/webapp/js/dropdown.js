@@ -1,0 +1,14 @@
+//棄用
+$(document).ready(function(){
+	$("#dropdownMenuLink").hover(function(){
+    	$("#dropDownCur").show();
+	$("h1").click(function(){
+		$("h1").hide();
+	});
+	});
+	$("#dropDownCur").hover(function(){
+   	 	$(this).show();
+	}),function(){
+  	 	$(this).hide();
+	}
+})

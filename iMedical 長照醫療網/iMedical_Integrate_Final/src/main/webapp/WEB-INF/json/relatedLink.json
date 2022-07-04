@@ -1,0 +1,38 @@
+[
+    {
+    "id": "1",
+    "name": "衛福部中央健康保險署",
+    "uri": "https://www.nhi.gov.tw/Content_List.aspx?n=3F11CED6A8DE68EC&topn=EC43C5584B2C331D"
+    },
+    {
+    "id": "2",
+    "name": "衛福部長照專區",
+    "uri": "https://1966.gov.tw/LTC/mp-201.html"
+    },
+    {
+    "id": "3",
+    "name": "衛福部疾病管制署",
+    "uri": "https://www.cdc.gov.tw/"
+    },
+    {
+    "id": "4",
+    "name": "高雄市長期照顧中心",
+    "uri": "https://ltc.kchb.gov.tw/"
+    },
+    {
+    "id": "5",
+    "name": "台南市長期照顧中心",
+    "uri": "https://ltc.tainan.gov.tw/"
+    },
+    {
+    "id": "6",
+    "name": "衛福利部紓困補貼申請",
+    "uri": "https://covid19relief.mohw.gov.tw/"
+    },
+    {
+    "id": "7",
+    "name": "衛福部社會及家庭署",
+    "uri": "https://ccare.sfaa.gov.tw/home/index"
+    }
+    
+]

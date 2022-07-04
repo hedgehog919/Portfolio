@@ -1,0 +1,14 @@
+#icon {
+	position: absolute;
+	left: 450px;
+	top: 50px;
+}
+
+#loginpassward {
+	position: absolute;
+}
+
+.card border-dark {
+	border-style: solid;
+  border-width: 15px 45px; 
+}

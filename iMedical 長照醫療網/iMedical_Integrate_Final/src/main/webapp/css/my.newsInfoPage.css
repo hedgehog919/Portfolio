@@ -1,0 +1,57 @@
+
+
+#newsInfoPageSection{
+	background-color: #f8f9fa;	
+}
+
+
+#newsInfoPageCol{
+	padding: 30px 30px;
+	background-color: white;
+	border-radius: 15px;
+	border: 2px solid #ddd;
+}
+#newsInfoPageCol>div{
+	font-size: 18px;
+}
+
+
+#text{
+    height: 600px;
+    border: 2px solid #444;
+    border-radius: 12px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+
+
+
+#newsInfoPageArticle hr{
+	border:1px solid #bd3359;
+	margin-top: 12px;
+	margin-bottom: 5px; 
+}
+
+
+.page-font span {
+    padding: 3px 6px;
+    border: solid 2px #bd3359;
+    border-radius: 50%;
+    font-weight: 600;
+}
+
+#title{
+	font-weight: bolder;
+	font-size: 24px;
+	padding-right: 5px;
+}
+
+#title~span{
+	font-size: 24px;
+}
+
+.page-font span:hover {
+	background-color: #bd3359;
+	color: white;
+}
